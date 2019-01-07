@@ -1,0 +1,12 @@
+{
+    "author": "PsykoDev",
+    "description": "",
+    "disableAutoUpdate": false,
+    "name": "broker-anywhere",
+    "options": {
+        "reloadable": false
+    },
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/broker-anywhere/master/"],
+    "supportUrl": "https://github.com/PsykoDev/broker-anywhere/blob/master/README.md",
+    "version": "1"
+}
