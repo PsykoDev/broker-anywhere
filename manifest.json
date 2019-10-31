@@ -1,12 +1,10 @@
 {
-    "files": {
-        "README.md": "5bc137d23e5e05e57c278c05f83fc4b26427352be56cdbf1dedec6fad9633807",
-        "index.js": "dad251ba91db7ef15904772903654c94d2fd876fd1a47ff4cb17e20737e53194",
-        "module.json": "b7d88978146852a978f90111414d9a7f6f2365363026da1dfabb8f89edd96420"
-    },
-    "defs": {
-        "C_CHAT": 1,
-        "C_WHISPER": 1,
-        "S_NPC_MENU_SELECT": 1
-    }
+	"files": {
+		"README.md": "5bc137d23e5e05e57c278c05f83fc4b26427352be56cdbf1dedec6fad9633807",
+		"index.js": "61f012c088ab7154e56c4853d6db96ba9bb3fec056844acb6244060d4107e230",
+		"module.json": "632389caa18f0322c9026f144434fc75ad60370afd26a50c194e7dd4c66f0ada"
+	},
+	"defs": {
+		"S_NPC_MENU_SELECT": 1
+	}
 }
